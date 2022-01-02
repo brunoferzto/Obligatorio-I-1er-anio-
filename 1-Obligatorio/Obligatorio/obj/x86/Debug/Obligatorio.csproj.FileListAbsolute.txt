@@ -1,0 +1,35 @@
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.exe
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.pdb
+C:\Users\Bruno\Documents\Visual Studio 2010\Projects\Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+E:\Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.exe
+E:\Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.pdb
+E:\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+E:\Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+E:\Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+D:\Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.exe
+D:\Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.pdb
+D:\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+D:\Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+D:\Obligatorio\Obligatorio\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.exe
+G:\Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.pdb
+G:\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+G:\Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+G:\Obligatorio\Obligatorio\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\1-Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.exe
+E:\1-Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.pdb
+E:\1-Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+E:\1-Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+E:\1-Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+D:\1-Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.exe
+D:\1-Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.pdb
+D:\1-Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+D:\1-Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+D:\1-Obligatorio\Obligatorio\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\POO\1-Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.exe
+E:\POO\1-Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.pdb
+E:\POO\1-Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+E:\POO\1-Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+E:\POO\1-Obligatorio\Obligatorio\obj\x86\Debug\Obligatorio.csprojResolveAssemblyReference.cache
